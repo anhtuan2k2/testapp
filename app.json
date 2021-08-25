@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "testSafariview",
+    "slug": "testSafariview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "testSafariview"
+}
